@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f52d60-39fd-4262-8e6d-c97c75547a8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/model/Carrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/model/Producto.java" afterDir="false" />
-    </list>
+    <list default="true" id="10f52d60-39fd-4262-8e6d-c97c75547a8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700865811180</updated>
-      <workItem from="1700865812230" duration="1746000" />
+      <workItem from="1700865812230" duration="2202000" />
     </task>
     <servers />
   </component>
